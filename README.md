@@ -13,15 +13,26 @@
 ┌──────────────────────────────────────────────────────────────────────────┐
 │  ◉ AI CORE ONLINE             ◉ NEURAL SYSTEMS READY                    │
 │                                                                          │
-│  USER       : UDAY KUMAR G                                              │
-│  CLASS      : AI / ML ENGINEER                                          │
-│  SPECIALTY  : GENAI • LLM • AGENTS • COMPUTER VISION                   │
-│  LOCATION   : BENGALURU, INDIA                                          │
-│  STATUS     : <b>ONLINE</b>                                                 │
+│  USER        : UDAY KUMAR G                                             │
+│  CLASS       : AI / ML ENGINEER                                         │
+│  SPECIALTY   : GENAI • LLM • AGENTS • COMPUTER VISION                  │
+│  LOCATION    : BENGALURU, INDIA                                         │
+│  STATUS      : ONLINE                                                   │
 │                                                                          │
 │  "BUILDING INTELLIGENT SYSTEMS, ONE MODULE AT A TIME."                  │
 └──────────────────────────────────────────────────────────────────────────┘
 </pre>
+
+### ◉ COMMAND CONSOLE
+
+[ `ABOUT` ](#about) &nbsp;&nbsp;
+[ `SKILLS` ](#skills) &nbsp;&nbsp;
+[ `PROJECTS` ](#projects) &nbsp;&nbsp;
+[ `EXPERIENCE` ](#experience) &nbsp;&nbsp;
+[ `TELEMETRY` ](#telemetry) &nbsp;&nbsp;
+[ `CONTACT` ](#contact)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](https://linkedin.com/in/udaykumargudagudi)
 [![GitHub](https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00ff9c)](https://github.com/udaykumar5683)
@@ -32,31 +43,31 @@
 
 ---
 
-## `> INITIALIZE UDAY_AI`
+## ABOUT
 
 <pre>
-[BOOT SEQUENCE]
-
-01  Loading identity.................... [ OK ]
-02  Loading neural modules.............. [ OK ]
-03  Loading computer vision stack....... [ OK ]
-04  Loading generative AI stack......... [ OK ]
-05  Loading cloud systems............... [ OK ]
-06  Loading project database............ [ OK ]
-
-SYSTEM READY.
-
 uday@ai-core:~$ whoami
-> AI/ML Engineer
+
+> AI/ML Engineer building practical intelligent systems.
 
 uday@ai-core:~$ mission
-> Design, build and deploy practical intelligent systems.
+
+> Design, build and deploy practical AI systems.
 
 uday@ai-core:~$ current_mode
+
 > BUILD • LEARN • EXPERIMENT • SHIP
+
+uday@ai-core:~$ open_to
+
+> AI/ML • Generative AI • Software • Internship Opportunities
 </pre>
 
-## `> AI_CORE / SYSTEM_STATS`
+[ READ ABOUT ME ](#about)
+
+---
+
+## SYSTEM HUD
 
 <div align="center">
 
@@ -76,6 +87,8 @@ uday@ai-core:~$ current_mode
 ╰────────────────────────────╯
 </pre>
 
+[VIEW GITHUB](https://github.com/udaykumar5683)
+
 </td>
 <td>
 
@@ -91,6 +104,8 @@ uday@ai-core:~$ current_mode
 ╰────────────────────────────╯
 </pre>
 
+[OPEN SKILL STACK](#skills)
+
 </td>
 </tr>
 </table>
@@ -99,7 +114,7 @@ uday@ai-core:~$ current_mode
 
 ---
 
-## `> neural_network --visualize`
+## NEURAL NETWORK
 
 <pre align="center">
                          ┌─────────────────┐
@@ -127,14 +142,13 @@ uday@ai-core:~$ current_mode
                          └─────────────────┘
 </pre>
 
+[ EXPLORE PROJECTS ](#projects) &nbsp; [ OPEN GITHUB ](https://github.com/udaykumar5683)
+
 ---
 
-## `> ls /TECH_STACK`
+## SKILLS
 
-<details open>
-<summary><b>◉ GENERATIVE AI / AGENTS</b></summary>
-
-<br/>
+### ◉ GENERATIVE AI / AGENTS
 
 ![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=00ff9c)
 ![LangChain](https://img.shields.io/badge/LangChain-050505?style=for-the-badge&logo=langchain&logoColor=00ff9c)
@@ -143,12 +157,9 @@ uday@ai-core:~$ current_mode
 ![Groq](https://img.shields.io/badge/Groq-050505?style=for-the-badge&logoColor=00ff9c)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-050505?style=for-the-badge&logoColor=00ff9c)
 
-</details>
+**ACTION:** [EXPLORE AI PROJECTS](#projects) · [GITHUB REPOSITORIES](https://github.com/udaykumar5683?tab=repositories)
 
-<details>
-<summary><b>◉ MACHINE LEARNING / COMPUTER VISION</b></summary>
-
-<br/>
+### ◉ MACHINE LEARNING / COMPUTER VISION
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-050505?style=for-the-badge&logo=tensorflow&logoColor=00ff9c)
 ![PyTorch](https://img.shields.io/badge/PyTorch-050505?style=for-the-badge&logo=pytorch&logoColor=00ff9c)
@@ -156,12 +167,9 @@ uday@ai-core:~$ current_mode
 ![NLP](https://img.shields.io/badge/NLP-050505?style=for-the-badge&logoColor=00ff9c)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-050505?style=for-the-badge&logoColor=00ff9c)
 
-</details>
+**ACTION:** [VIEW IMAGE PROJECT](#projects)
 
-<details>
-<summary><b>◉ SOFTWARE / CLOUD</b></summary>
-
-<br/>
+### ◉ SOFTWARE / CLOUD
 
 ![Java](https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=openjdk&logoColor=00ff9c)
 ![C](https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=00ff9c)
@@ -172,13 +180,13 @@ uday@ai-core:~$ current_mode
 ![AWS](https://img.shields.io/badge/AWS-050505?style=for-the-badge&logo=amazonwebservices&logoColor=00ff9c)
 ![Git](https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=00ff9c)
 
-</details>
+**ACTION:** [OPEN ALL REPOSITORIES](https://github.com/udaykumar5683?tab=repositories)
 
 ---
 
-## `> ./PROJECTS --execute`
+## PROJECTS
 
-### `[MISSION_01] HIREMIND`
+### MISSION 01 — HIREMIND
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════╗
@@ -199,15 +207,15 @@ uday@ai-core:~$ current_mode
 ╚══════════════════════════════════════════════════════════════════╝
 </pre>
 
-AI-powered recruiter intelligence platform built around specialized AI agents for resume analysis, candidate evidence, skill discovery and job matching.
+AI-powered recruiter intelligence platform for resume analysis, candidate evidence, hidden-skill discovery, job matching and technical assessment.
 
 **STACK:** Next.js • TypeScript • PostgreSQL • Supabase • GROQ • AI Agents
 
-→ [ACCESS REPOSITORY](https://github.com/udaykumar5683/HireMind)
+**[▶ LAUNCH HIREMIND](https://github.com/udaykumar5683/HireMind)**
 
 ---
 
-### `[MISSION_02] IMAGE RESTORATION`
+### MISSION 02 — IMAGE RESTORATION
 
 <pre align="center">
      RAW IMAGE
@@ -243,9 +251,11 @@ Deep-learning image restoration pipeline for degraded, low-light and overexposed
 
 **STACK:** Python • TensorFlow • OpenCV • CNN • Deep Learning
 
+**[▶ VIEW SOURCE](https://github.com/udaykumar5683/image-restoration-and-enhancement-system)**
+
 ---
 
-### `[MISSION_03] AI CAREER INTELLIGENCE`
+### MISSION 03 — AI CAREER INTELLIGENCE
 
 <pre>
 RESUME
@@ -267,26 +277,11 @@ RESUME
 
 Multi-agent career intelligence platform transforming resumes into actionable career strategies, job insights, skill gaps and personalized roadmaps.
 
----
-
-## `> systemctl list-units --state=active`
-
-<pre>
-● resume-analysis.service       [ACTIVE]
-● llm-orchestration.service    [ACTIVE]
-● ai-agent-network.service     [ACTIVE]
-● computer-vision.service      [ACTIVE]
-● cloud-infrastructure.service [ACTIVE]
-● api-integration.service      [ACTIVE]
-
-────────────────────────────────────────────────
-AI CORE STATUS                 ██████████  ONLINE
-────────────────────────────────────────────────
-</pre>
+**[▶ OPEN MY REPOSITORIES](https://github.com/udaykumar5683?tab=repositories)**
 
 ---
 
-## `> cat /experience.log`
+## EXPERIENCE
 
 <pre>
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -302,9 +297,11 @@ AI CORE STATUS                 ██████████  ONLINE
 └─────────────────────────────────────────────────────────────────────┘
 </pre>
 
+[VIEW MY GITHUB](https://github.com/udaykumar5683) · [CONNECT ON LINKEDIN](https://linkedin.com/in/udaykumargudagudi)
+
 ---
 
-## `> achievements --list`
+## ACHIEVEMENTS
 
 <pre>
 [✓] B.Tech — Artificial Intelligence & Machine Learning
@@ -319,7 +316,7 @@ AI CORE STATUS                 ██████████  ONLINE
 
 ---
 
-## `> github --telemetry`
+## TELEMETRY
 
 <div align="center">
 
@@ -331,11 +328,15 @@ AI CORE STATUS                 ██████████  ONLINE
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaykumar5683&theme=dark&hide_border=true&background=050505&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" alt="GitHub Streak"/>
 
+<br/>
+
+[VIEW REPOSITORY ACTIVITY](https://github.com/udaykumar5683?tab=overview&from=2026-01-01&to=2026-12-31)
+
 </div>
 
 ---
 
-## `> connect --open-channel`
+## CONTACT
 
 <div align="center">
 
@@ -353,15 +354,19 @@ AI CORE STATUS                 ██████████  ONLINE
 ╚══════════════════════════════════════════════════════════════════════╝
 </pre>
 
-<a href="https://linkedin.com/in/udaykumargudagudi">
-<img src="https://img.shields.io/badge/CONNECT-00ff9c?style=for-the-badge&logo=linkedin&logoColor=050505"/>
-</a>
+[ CONNECT ON LINKEDIN ](https://linkedin.com/in/udaykumargudagudi)
 
-<a href="mailto:udaykumargudagudi961@gmail.com">
-<img src="https://img.shields.io/badge/TRANSMIT-00ff9c?style=for-the-badge&logo=gmail&logoColor=050505"/>
-</a>
+[ SEND EMAIL ](mailto:udaykumargudagudi961@gmail.com)
 
-<br/><br/>
+[ OPEN GITHUB ](https://github.com/udaykumar5683)
+
+</div>
+
+---
+
+<div align="center">
+
+[ ⬆ BACK TO TOP ](#uday-kumar)
 
 <sub>◉ AI CORE // SESSION ACTIVE // KEEP BUILDING</sub>
 
