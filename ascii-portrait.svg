@@ -1,32 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="340" viewBox="0 0 560 340">
 <rect width="100%" height="100%" rx="14" fill="#050505" stroke="#19372d"/>
 <text x="12" y="14" fill="#7d8590" font-family="monospace" font-size="7">PORTRAIT_RENDERER // MONOCHROME // AUTO-TYPE</text>
 <g fill="#69f0a0" font-family="monospace" font-size="10">
-<text x="18" y="36">                    .-=========-.</text>
-<text x="18" y="47">                .:=###############=:.</text>
-<text x="18" y="58">              .+#####################+.</text>
-<text x="18" y="69">            .+#########################+.</text>
-<text x="18" y="80">           +#############%%#############+</text>
-<text x="18" y="91">         .#############%%%%%%############.</text>
-<text x="18" y="102">        +#############%%%%%%%%############+</text>
-<text x="18" y="113">       *#############%%%%%%%%%%############*</text>
-<text x="18" y="124">      *############%%%%%%%%%%%%############*</text>
-<text x="18" y="135">     +###########%%%%%%@%%%%%%%############+</text>
-<text x="18" y="146">     ###########%%%@@@@@@@@%%%%%############</text>
-<text x="18" y="157">    +##########%%%@@@@@@@@@@%%%%############+</text>
-<text x="18" y="168">    ##########%%%%@@@@@@@@@@%%%%############</text>
-<text x="18" y="179">    ##########%%%%@@@@@@@@%%%%%%############</text>
-<text x="18" y="190">    +###########%%%%%%@%%%%%%%%############+</text>
-<text x="18" y="201">     ############%%%%%%%%%%%%%%############</text>
-<text x="18" y="212">      *############%%%%%%%%%%############*</text>
-<text x="18" y="223">       *#############%%%%%%%%############*</text>
-<text x="18" y="234">        +#############%%%%%%############+</text>
-<text x="18" y="245">         .#############%%##############.</text>
-<text x="18" y="256">            +#########################+</text>
-<text x="18" y="267">              .+#####################+.</text>
-<text x="18" y="278">                .:=###############=:.</text>
-<text x="18" y="289">                    '---------'</text>
-<text x="18" y="311">          [ U D A Y   K U M A R ]</text>
-<text x="18" y="326">             [ AI / ML ENGINEER ]</text>
+<text x="18" y="36" opacity="0">                    .-=========-.<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="0.20s" fill="freeze"/></text>
+<text x="18" y="47" opacity="0">                .:=###############=:.<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="0.27s" fill="freeze"/></text>
+<text x="18" y="58" opacity="0">              .+#####################+.<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="0.34s" fill="freeze"/></text>
+<text x="18" y="69" opacity="0">            .+#########################+.<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="0.41s" fill="freeze"/></text>
+<text x="18" y="80" opacity="0">           +#############%%#############+<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="0.48s" fill="freeze"/></text>
+<text x="18" y="91" opacity="0">         .#############%%%%%%############.<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="0.55s" fill="freeze"/></text>
+<text x="18" y="102" opacity="0">        +#############%%%%%%%%############+<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="0.62s" fill="freeze"/></text>
+<text x="18" y="113" opacity="0">       *#############%%%%%%%%%%############*<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="0.69s" fill="freeze"/></text>
+<text x="18" y="124" opacity="0">      *############%%%%%%%%%%%%############*<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="0.76s" fill="freeze"/></text>
+<text x="18" y="135" opacity="0">     +###########%%%%%%@%%%%%%%############+<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="0.83s" fill="freeze"/></text>
+<text x="18" y="146" opacity="0">     ###########%%%@@@@@@@@%%%%%############<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="0.90s" fill="freeze"/></text>
+<text x="18" y="157" opacity="0">    +##########%%%@@@@@@@@@@%%%%############+<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="0.97s" fill="freeze"/></text>
+<text x="18" y="168" opacity="0">    ##########%%%%@@@@@@@@@@%%%%############<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="1.04s" fill="freeze"/></text>
+<text x="18" y="179" opacity="0">    ##########%%%%@@@@@@@@%%%%%%############<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="1.11s" fill="freeze"/></text>
+<text x="18" y="190" opacity="0">    +###########%%%%%%@%%%%%%%%############+<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="1.18s" fill="freeze"/></text>
+<text x="18" y="201" opacity="0">     ############%%%%%%%%%%%%%%############<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="1.25s" fill="freeze"/></text>
+<text x="18" y="212" opacity="0">      *############%%%%%%%%%%############*<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="1.32s" fill="freeze"/></text>
+<text x="18" y="223" opacity="0">       *#############%%%%%%%%############*<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="1.39s" fill="freeze"/></text>
+<text x="18" y="234" opacity="0">        +#############%%%%%%############+<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="1.46s" fill="freeze"/></text>
+<text x="18" y="245" opacity="0">         .#############%%##############.<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="1.53s" fill="freeze"/></text>
+<text x="18" y="256" opacity="0">            +#########################+<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="1.60s" fill="freeze"/></text>
+<text x="18" y="267" opacity="0">              .+#####################+.<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="1.67s" fill="freeze"/></text>
+<text x="18" y="278" opacity="0">                .:=###############=:.<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="1.74s" fill="freeze"/></text>
+<text x="18" y="289" opacity="0">                    '---------'<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="1.81s" fill="freeze"/></text>
+<text x="18" y="300" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="1.88s" fill="freeze"/></text>
+<text x="18" y="311" opacity="0">          [ U D A Y   K U M A R ]<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="1.95s" fill="freeze"/></text>
+<text x="18" y="322" opacity="0">             [ AI / ML ENGINEER ]<animate attributeName="opacity" from="0" to="1" dur="0.28s" begin="2.02s" fill="freeze"/></text>
 </g>
 </svg>
