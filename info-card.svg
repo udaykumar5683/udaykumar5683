@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="260" viewBox="0 0 520 260">
+<rect width="100%" height="100%" rx="14" fill="#050505" stroke="#19372d"/>
+<text x="22" y="25" fill="#69f0a0" font-family="monospace" font-size="12">uday@github ~ $ neofetch</text>
+<line x1="20" y1="36" x2="500" y2="36" stroke="#1b332b"/>
+<g font-family="monospace" font-size="10">
+<text x="22" y="62" fill="#69f0a0">ROLE     </text><text x="112" y="62" fill="#ffffff">AI / ML ENGINEER</text>
+<text x="22" y="89" fill="#69f0a0">FOCUS    </text><text x="112" y="89" fill="#ffffff">GenAI • LLMs • Multi-Agent Systems</text>
+<text x="22" y="116" fill="#69f0a0">VISION   </text><text x="112" y="116" fill="#ffffff">Computer Vision • Deep Learning</text>
+<text x="22" y="143" fill="#69f0a0">CLOUD    </text><text x="112" y="143" fill="#ffffff">AWS • S3 • EC2 • API Gateway</text>
+<text x="22" y="170" fill="#69f0a0">STACK    </text><text x="112" y="170" fill="#ffffff">Python • TypeScript • Next.js • SQL</text>
+<text x="22" y="197" fill="#69f0a0">EDU      </text><text x="112" y="197" fill="#ffffff">B.Tech — AI &amp; ML • CGPA 8.1</text>
+<text x="22" y="224" fill="#69f0a0">MODE     </text><text x="112" y="224" fill="#ffffff">BUILD • LEARN • EXPERIMENT • SHIP</text>
+</g>
+</svg>
