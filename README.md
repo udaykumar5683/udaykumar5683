@@ -1,178 +1,276 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════╗
-║                    UDAY KUMAR // AI CORE                           ║
-║            FUTURISTIC AI/ML ENGINEER PROFILE                       ║
-╚══════════════════════════════════════════════════════════════════════╝
--->
+# Uday Kumar — AI/ML Engineer
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:071a17,100:00ff9c&height=170&section=header&text=UDAY%20KUMAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20ENGINEER%20%7C%20GENERATIVE%20AI%20%7C%20INTELLIGENT%20SYSTEMS&descAlignY=62&descSize=15" width="100%" alt="Uday Kumar"/>
+<h3><code>uday@github ~ $ ./contributions.sh</code></h3>
 
-<pre>
-┌──────────────────────────────────────────────────────────────────────────┐
-│                                                                          │
-│                                                                          │
-│  USER        : UDAY KUMAR G                                              │
-│  CLASS       : AI / ML ENGINEER                                          │
-│  SPECIALTY   : GENAI • LLM • AGENTS • COMPUTER VISION                    │
-│  LOCATION    : BENGALURU, INDIA                                          │
-│  STATUS      : ONLINE                                                    │
-│                                                                          │
-│  "BUILDING INTELLIGENT SYSTEMS, ONE MODULE AT A TIME."                   │
-└──────────────────────────────────────────────────────────────────────────┘
-</pre>
+<img src="./contrib-heatmap.svg" width="900" alt="Animated GitHub contribution heatmap"/>
 
+<br><br>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](https://linkedin.com/in/udaykumargudagudi)
-[![GitHub](https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00ff9c)](https://github.com/udaykumar5683)
-[![Email](https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=00ff9c)](mailto:udaykumargudagudi961@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=udaykumar5683&label=SYSTEM%20VISITS&color=00ff9c&style=for-the-badge)](https://uday-aiml-engineer.vercel.app/portfolio.html)
-
-</div>
-
----
-
-## ABOUT
-
-<pre>
-> AI/ML Engineer building practical intelligent systems.
-
-> Design, build and deploy practical AI systems.
-
-> BUILD • LEARN • EXPERIMENT • SHIP
-
-> AI/ML • Generative AI • Software • Internship Opportunities
-</pre>
-
----
-
-## SYSTEM HUD
-
-<div align="center">
+<h3><code>uday@github ~ $ whoami</code></h3>
 
 <table>
-<tr>
-<td>
-
-<pre>
-╭────────────────────────────╮
-│       PLAYER PROFILE       │
-├────────────────────────────┤
-│ LEVEL        : 2026        │
-│ CLASS        : AI ENGINEER │
-│ XP           : BUILDING    │
-│ STATUS       : ACTIVE      │
-│ LOCATION     : BLR / IN   │
-╰────────────────────────────╯
-</pre>
-
-</td>
-<td>
-
-<pre>
-╭────────────────────────────╮
-│       CORE MODULES         │
-├────────────────────────────┤
-│ GENAI        : ████████░░  │
-│ COMPUTER VISION: ███████░  │
-│ PYTHON       : █████████░  │
-│ CLOUD        : ███████░░░  │
-│ WEB / API    : ███████░░░  │
-╰────────────────────────────╯
-</pre>
-
-
-</td>
-</tr>
+  <tr>
+    <td valign="top" width="42%">
+      <img src="./ascii-portrait.svg" width="390" alt="Animated ASCII portrait"/>
+    </td>
+    <td valign="top" width="58%">
+      <img src="./info-card.svg" width="510" alt="Animated neofetch-style profile card"/>
+    </td>
+  </tr>
 </table>
+
+<br>
+
+<h3><code>uday@github ~ $ ls -la</code></h3>
+
+<a href="#projects">[ PROJECTS ]</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#stack">[ STACK ]</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#experience">[ EXPERIENCE ]</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#contact">[ CONTACT ]</a>
+
+<br><br>
+
+<a href="https://github.com/udaykumar5683?tab=repositories">
+  <img src="https://img.shields.io/badge/OPEN%20REPOSITORIES-050505?style=for-the-badge&logo=github&logoColor=69f0a0" alt="Open repositories"/>
+</a>
+<a href="https://linkedin.com/in/udaykumargudagudi">
+  <img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=69f0a0" alt="LinkedIn"/>
+</a>
+<a href="mailto:udaykumargudagudi961@gmail.com">
+  <img src="https://img.shields.io/badge/SEND%20MAIL-050505?style=for-the-badge&logo=gmail&logoColor=69f0a0" alt="Send email"/>
+</a>
 
 </div>
 
 ---
 
-</pre>
-
-[ EXPLORE PROJECTS ](#projects) &nbsp; [ OPEN GITHUB ](https://github.com/udaykumar5683)
-
----
-
-## SKILLS
-
-### ◉ GENERATIVE AI / AGENTS
-
-![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=00ff9c)
-![LangChain](https://img.shields.io/badge/LangChain-050505?style=for-the-badge&logo=langchain&logoColor=00ff9c)
-![CrewAI](https://img.shields.io/badge/CrewAI-050505?style=for-the-badge&logoColor=00ff9c)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-050505?style=for-the-badge&logo=huggingface&logoColor=00ff9c)
-![Groq](https://img.shields.io/badge/Groq-050505?style=for-the-badge&logoColor=00ff9c)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-050505?style=for-the-badge&logoColor=00ff9c)
-
-
-
-### ◉ MACHINE LEARNING / COMPUTER VISION
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-050505?style=for-the-badge&logo=tensorflow&logoColor=00ff9c)
-![PyTorch](https://img.shields.io/badge/PyTorch-050505?style=for-the-badge&logo=pytorch&logoColor=00ff9c)
-![OpenCV](https://img.shields.io/badge/OpenCV-050505?style=for-the-badge&logo=opencv&logoColor=00ff9c)
-![NLP](https://img.shields.io/badge/NLP-050505?style=for-the-badge&logoColor=00ff9c)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-050505?style=for-the-badge&logoColor=00ff9c)
-
-
-
-### ◉ SOFTWARE / CLOUD
-
-![Java](https://img.shields.io/badge/Java-050505?style=for-the-badge&logo=openjdk&logoColor=00ff9c)
-![C](https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=00ff9c)
-![SQL](https://img.shields.io/badge/SQL-050505?style=for-the-badge&logo=postgresql&logoColor=00ff9c)
-![TypeScript](https://img.shields.io/badge/TypeScript-050505?style=for-the-badge&logo=typescript&logoColor=00ff9c)
-![Next.js](https://img.shields.io/badge/Next.js-050505?style=for-the-badge&logo=nextdotjs&logoColor=00ff9c)
-![React](https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react&logoColor=00ff9c)
-![AWS](https://img.shields.io/badge/AWS-050505?style=for-the-badge&logo=amazonwebservices&logoColor=00ff9c)
-![Git](https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=00ff9c)
-
-
----
-
-
-</pre>
-
-
-## EXPERIENCE
+## `$ cat profile.txt`
 
 <pre>
-┌─────────────────────────────────────────────────────────────────────┐
-│ 2026.02 ── 2026.05                                              │
-│ CLOUD COMPUTING INTERN                                           │
-│ SmartBridge Educational Services Pvt. Ltd.                      │
-│ AWS • Cloud Workflows • Storage • Deployment                     │
-├─────────────────────────────────────────────────────────────────────┤
-│ 2024.04 ── 2024.05                                              │
-│ PYTHON DEVELOPER INTERN                                          │
-│ EZTS IT/Computers – Software                                    │
-│ Python • Automation • OOP • Logic Modules                        │
-└─────────────────────────────────────────────────────────────────────┘
-</pre>
+NAME       :: Uday Kumar G
+ROLE       :: AI / ML Engineer
+FOCUS      :: Generative AI • LLMs • Multi-Agent Systems • Computer Vision
+EDUCATION  :: B.Tech — Artificial Intelligence & Machine Learning
+LOCATION   :: Bengaluru, India
+STATUS     :: OPEN TO AI/ML • GENAI • SOFTWARE • INTERNSHIP OPPORTUNITIES
 
+MISSION
+> Build useful intelligent systems and turn ideas into working products.
+</pre>
 
 ---
 
-## ACHIEVEMENTS
+## `$ tree ./projects`
+
+<a id="projects"></a>
+
+### `01 / HireMind`
 
 <pre>
-[✓] B.Tech — Artificial Intelligence & Machine Learning
-[✓] CGPA — 8.1
+RESUME
+  │
+  ├──► EVIDENCE CORRELATION
+  ├──► HIDDEN SKILL DISCOVERY
+  ├──► ROLE MATCHING
+  ├──► AUTHENTICITY ANALYSIS
+  └──► TECHNICAL DEPTH
+              │
+              ▼
+      CANDIDATE INTELLIGENCE
+</pre>
+
+**AI-powered recruiter intelligence platform** built with specialized agents for candidate analysis, skill discovery and job matching.
+
+**Stack:** Next.js • TypeScript • PostgreSQL • Supabase • GROQ
+
+**[ ▶ LAUNCH HIREMIND ](https://github.com/udaykumar5683/HireMind)**
+
+---
+
+### `02 / Image Restoration & Enhancement`
+
+<pre>
+RAW IMAGE
+   │
+   ▼
+PREPROCESS
+   │
+   ├──► DENOISING
+   ├──► DEBLURRING
+   ├──► LOW-LIGHT ENHANCEMENT
+   ├──► OVEREXPOSURE CORRECTION
+   ├──► COLOR CORRECTION
+   ├──► SUPER RESOLUTION
+   └──► FACE RESTORATION
+           │
+           ▼
+      ENHANCED IMAGE
+</pre>
+
+Deep-learning image restoration pipeline for degraded, low-light and overexposed images using TensorFlow, OpenCV and CNN-based techniques.
+
+**Stack:** Python • TensorFlow • OpenCV • Deep Learning
+
+**[ ▶ VIEW SOURCE ](https://github.com/udaykumar5683/image-restoration-and-enhancement-system)**
+
+---
+
+### `03 / AI Career Intelligence`
+
+<pre>
+RESUME
+  │
+  ▼
+AI AGENT NETWORK
+  ├──► JOB ROLE MATCHING
+  ├──► MARKET RESEARCH
+  ├──► SKILL GAP DETECTION
+  ├──► PLACEMENT RISK
+  ├──► SALARY ESTIMATION
+  └──► CAREER ROADMAP
+             │
+             ▼
+        CAREER COPILOT
+</pre>
+
+A multi-agent career co-pilot that turns resume data into job insights, skill-gap analysis and personalized growth strategies.
+
+**[ ▶ OPEN MY PROJECTS ](https://github.com/udaykumar5683?tab=repositories)**
+
+---
+
+## `$ cat /stack`
+
+<a id="stack"></a>
+
+<pre>
+GENERATIVE AI
+├── LLM Applications
+├── Prompt Engineering
+├── Multi-Agent Systems
+├── LangChain
+├── CrewAI
+├── Hugging Face
+└── GROQ
+
+MACHINE LEARNING
+├── Python
+├── TensorFlow
+├── PyTorch
+├── OpenCV
+├── NLP
+└── Computer Vision
+
+SOFTWARE + CLOUD
+├── TypeScript
+├── Next.js
+├── React
+├── SQL
+├── Java
+├── C
+├── AWS
+├── S3
+├── EC2
+├── API Gateway
+└── Git / GitHub
+</pre>
+
+**[ ▶ EXPLORE ALL REPOSITORIES ](https://github.com/udaykumar5683?tab=repositories)**
+
+---
+
+## `$ tail -n 20 /experience.log`
+
+<a id="experience"></a>
+
+<pre>
+2026.02 — 2026.05
+CLOUD COMPUTING INTERN
+SmartBridge Educational Services Pvt. Ltd.
+AWS • Cloud workflows • Storage • Deployment
+
+2024.04 — 2024.05
+PYTHON DEVELOPER INTERN
+EZTS IT/Computers – Software
+Python • Automation • OOP • Logic modules
+</pre>
+
+---
+
+## `$ cat /certifications`
+
+<pre>
 [✓] AWS Cloud Practitioner
+[✓] IBM — Getting Started with Enterprise AI
+[✓] Google Cloud — Career Launchpad
 [✓] Deloitte — Data Analytics Job Simulation
 [✓] British Airways — Data Science Job Simulation
-[✓] IBM — Enterprise AI
-[✓] Google Cloud — Career Launchpad
-[✓] Hackathon / AI Project Development
 </pre>
 
 ---
 
+## `$ cat /telemetry`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:071a17,100:050505&height=100&section=footer" width="100%" alt="footer"/>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=udaykumar5683&label=PROFILE%20VIEWS&color=69f0a0&style=flat-square" alt="Profile views"/>
+
+<br><br>
+
+<a href="https://github.com/udaykumar5683">
+  <img src="https://img.shields.io/github/followers/udaykumar5683?label=FOLLOWERS&style=flat-square&color=69f0a0&labelColor=050505" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/udaykumar5683?tab=repositories">
+  <img src="https://img.shields.io/github/stars/udaykumar5683?label=TOTAL%20STARS&style=flat-square&color=69f0a0&labelColor=050505" alt="GitHub stars"/>
+</a>
+
+</div>
+
+> The animated contribution calendar above is generated locally in this repository from GitHub's public contribution calendar. No third-party stats service is used for the heatmap.
+
+---
+
+## `$ connect --open`
+
+<a id="contact"></a>
+
+<div align="center">
+
+<pre>
+┌───────────────────────────────────────────────────────────┐
+│                    COMMUNICATION HUB                     │
+├───────────────────────────────────────────────────────────┤
+│ LinkedIn :: linkedin.com/in/udaykumargudagudi            │
+│ GitHub   :: github.com/udaykumar5683                     │
+│ Email    :: udaykumargudagudi961@gmail.com               │
+└───────────────────────────────────────────────────────────┘
+</pre>
+
+<a href="https://linkedin.com/in/udaykumargudagudi">
+  <img src="https://img.shields.io/badge/CONNECT-050505?style=for-the-badge&logo=linkedin&logoColor=69f0a0" alt="Connect on LinkedIn"/>
+</a>
+<a href="mailto:udaykumargudagudi961@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=69f0a0" alt="Send email"/>
+</a>
+<a href="https://github.com/udaykumar5683?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-050505?style=for-the-badge&logo=github&logoColor=69f0a0" alt="Browse repositories"/>
+</a>
+
+<br><br>
+
+<a href="#uday-kumar--aiml-engineer">[ ↑ BACK TO TOP ]</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub><code>uday@github:~$ exit</code></sub>
+
+</div>
