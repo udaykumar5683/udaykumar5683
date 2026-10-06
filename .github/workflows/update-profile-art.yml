@@ -1,5 +1,9 @@
 name: Update profile art
 
+concurrency:
+  group: profile-art
+  cancel-in-progress: true
+
 on:
   schedule:
     - cron: "17 6 * * *"
