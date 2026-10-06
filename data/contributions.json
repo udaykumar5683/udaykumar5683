@@ -1840,12 +1840,12 @@
   ],
   "stats": {
     "total": 0,
-    "current_streak": 0,
-    "longest_streak": 0,
+    "current_streak": 3,
+    "longest_streak": 4,
     "best_day": {
-      "date": "2025-10-05",
+      "date": "2026-01-09",
       "count": 0,
-      "level": 0
+      "level": 4
     },
     "months": {
       "2025-10": 0,
@@ -1861,6 +1861,7 @@
       "2026-08": 0,
       "2026-09": 0,
       "2026-10": 0
-    }
+    },
+    "counts_estimated": true
   }
 }
