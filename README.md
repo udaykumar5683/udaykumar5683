@@ -8,47 +8,6 @@
 
 <br><br>
 
-<h3><code>uday@github ~ $ whoami</code></h3>
-
-<table>
-  <tr>
-    <td valign="top" width="42%">
-      <img src="./ascii-portrait.svg" width="390" alt="Animated ASCII portrait"/>
-    </td>
-    <td valign="top" width="58%">
-      <img src="./info-card.svg" width="510" alt="Animated neofetch-style profile card"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<h3><code>uday@github ~ $ ls -la</code></h3>
-
-<a href="#projects">[ PROJECTS ]</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#stack">[ STACK ]</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#experience">[ EXPERIENCE ]</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#contact">[ CONTACT ]</a>
-
-<br><br>
-
-<a href="https://github.com/udaykumar5683?tab=repositories">
-  <img src="https://img.shields.io/badge/OPEN%20REPOSITORIES-050505?style=for-the-badge&logo=github&logoColor=69f0a0" alt="Open repositories"/>
-</a>
-<a href="https://linkedin.com/in/udaykumargudagudi">
-  <img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=69f0a0" alt="LinkedIn"/>
-</a>
-<a href="mailto:udaykumargudagudi961@gmail.com">
-  <img src="https://img.shields.io/badge/SEND%20MAIL-050505?style=for-the-badge&logo=gmail&logoColor=69f0a0" alt="Send email"/>
-</a>
-
-</div>
-
----
-
 ## `$ cat profile.txt`
 
 <pre>
